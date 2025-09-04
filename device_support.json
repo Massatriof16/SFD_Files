@@ -1,13 +1,394 @@
-
 [
   {
     "device": "Infinix Smart 8 (X6525)",
     "soc": "UMS9230",
-    "resources": "https://github.com/Massatriof16/Device_support/releases/download/Files/x6525.zip"
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart8.zip"
   },
   {
-    "device": "Universal(UMS9230)",
+    "device": "Infinix HOT 12 Pro",
     "soc": "UMS9230",
-    "resources": "https://github.com/AthaxDev/SFDFile/releases/download/Files/x6525.zip"
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot12pro.zip"
+  },
+  {
+    "device": "Infinix Hot 30i (X699 / X669D)",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot30i.zip"
+  },
+  {
+    "device": "Infinix Hot 40i (X6528B / X6528)",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot40i.zip"
+  },
+  {
+    "device": "Infinix Smart 10 (X6725C)",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart10.zip"
+  },
+  {
+    "device": "Itel S23",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s23.zip"
+  },
+  {
+    "device": "Itel S23 Plus",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s23plus.zip"
+  },
+  {
+    "device": "Itel P55 NFC",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/p55nfc.zip"
+  },
+  {
+    "device": "Itel P65",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/p65.zip"
+  },
+  {
+    "device": "Itel S25",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s25.zip"
+  },
+  {
+    "device": "Itel S25 Ultra",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s25ultra.zip"
+  },
+  {
+    "device": "Itel City 100",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/city100.zip"
+  },
+  {
+    "device": "Itel P40 Plus",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/p40plus.zip"
+  },
+  {
+    "device": "Itel Vision 3 Plus",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision3plus.zip"
+  },
+  {
+    "device": "Itel Vision 5 plus",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision5plus.zip"
+  },
+  {
+    "device": "Realme C31",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c31.zip"
+  },
+  {
+    "device": "Realme C33",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c33.zip"
+  },
+  {
+    "device": "Realme C35",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c35.zip"
+  },
+  {
+    "device": "Realme C51",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c51.zip"
+  },
+  {
+    "device": "Realme C53",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c53.zip"
+  },
+  {
+    "device": "Realme Narzo 50i Prime",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i_prime.zip"
+  },
+  {
+    "device": "Realme Note 50",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note50.zip"
+  },
+  {
+    "device": "Realme Note 60",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60.zip"
+  },
+  {
+    "device": "Realme Note 60x",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60x.zip"
+  },
+  {
+    "device": "Redmi A5",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/redmia5.zip"
+  },
+  {
+    "device": "Tecno spark Go 1 (KL4)",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/kl4.zip"
+  },
+  {
+    "device": "Tecno Spark 8C",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_8c.zip"
+  },
+  {
+    "device": "Universal EMMC",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/universal_emmc.zip"
+  },
+  {
+    "device": "Universal UFS",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/universal_ufs.zip"
+  },
+  {
+    "device": "Vivo Y19S",
+    "soc": "UMS9230",
+    "fdl1": "0x65000800",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x65015f08",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/y19s.zip"
+  },
+  {
+    "device": "Itel A70",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a70.zip"
+  },
+  {
+    "device": "Itel A50",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a50.zip"
+  },
+  {
+    "device": "Itel A80",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a80.zip"
+  },
+  {
+    "device": "Itel A90",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a90.zip"
+  },
+  {
+    "device": "Itel A60s",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a60s.zip"
+  },
+  {
+    "device": "Itel VISION 3",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision3.zip"
+  },
+  {
+    "device": "Infinix Smart 7 (X6516)",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart7.zip"
+  },
+  {
+    "device": "Realme C11",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c11.zip"
+  },
+  {
+    "device": "Realme Narzo 50i",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i.zip"
+  },
+  {
+    "device": "ZTE BLADE A5",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/blade_a5.zip"
+  },
+  {
+    "device": "ZTE BLADE A7",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/blade_a7.zip"
+  },
+  {
+    "device": "ZTE BLADE A31",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/Blade_a31.zip"
+  },
+  {
+    "device": "ZTE BLADE A51",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/blade_a51.zip"
+  },
+  {
+    "device": "ZTE BLADE A52",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/blade_a52.zip"
+  },
+  {
+    "device": "ZTE BLADE V2020 Smart",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/blade_v2020.zip"
+  },
+  {
+    "device": "ZTE VOYAGE 40se",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x4ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/voyage40se.zip"
+  },
+  {
+    "device": "Infinix Hot 12 Play NFC",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x3ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot12play_nfc.zip"
+  },
+  {
+    "device": "Realme C21Y",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x3ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c21y.zip"
+  },
+  {
+    "device": "Realme C25Y",
+    "soc": "SC9863A",
+    "fdl1": "0x5000",
+    "fdl2": "0x9efffe00",
+    "noverify": "0x3ee8",
+    "resources": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c25y.zip"
   }
 ]
