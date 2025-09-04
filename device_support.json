@@ -1,0 +1,13 @@
+
+[
+  {
+    "device": "Infinix Smart 8 (X6525)",
+    "soc": "UMS9230",
+    "resources": "https://github.com/Massatriof16/Device_support/releases/download/Files/x6525.zip"
+  },
+  {
+    "device": "Universal(UMS9230)",
+    "soc": "UMS9230",
+    "resources": "https://github.com/AthaxDev/SFDFile/releases/download/Files/x6525.zip"
+  }
+]
