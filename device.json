@@ -22,7 +22,7 @@
         "advan": {
                "sketsa_3": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/sketsa_3.zip"
         },
-        "realme": {
+        "Realme": {
                 "c31": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c31.zip",
                 "c33": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c33.zip",
                 "c35": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c35.zip",
@@ -35,15 +35,15 @@
                 "note60": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60.zip",
                 "note60x": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60x.zip"
         },
-        "tecno": {
+        "Tecno": {
                "kl4": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/kl4.zip",
                "spark_8c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_8c.zip",
                "spark_10c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_10c.zip"
         },
-        "redmi": {
+        "Redmi": {
               "a5": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a5.zip"
         },
-        "vivo": {
+        "Vivo": {
              "y19s": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/y19s.zip"
         }
     },
@@ -58,16 +58,16 @@
         "infinix": {
               "smart7": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart7.zip"
         },
-        "realme": {
+        "Realme": {
                "c11": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c11.zip",
                "narzo50i": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i.zip"
         }
     },
      "ums512": {
-          "infinix": {
+          "Infinix": {
                  "hot12play_nfc": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot120lay_nfc.zip"
           },
-          "realme": {
+          "Realme": {
                  "c21y": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c21y.zip",
                  "c25y": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c25y.zip"
           }
