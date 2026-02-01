@@ -1,77 +1,77 @@
 {
     "ums9230": {
         "Infinix": {
-            "hot40i": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot40i.zip",
-            "hot30i": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot30i.zip",
-            "smart8": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot30i.zip",
-            "smart10": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart10.zip",
-            "hot12pro": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot12pro.zip"
+            "hot40i": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot40i.zip",
+            "hot30i": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot30i.zip",
+            "smart8": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot30i.zip",
+            "smart10": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart10.zip",
+            "hot12pro": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot12pro.zip"
         },
         "Itel": {
-            "s25": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/s25.zip",
-            "s23": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/s23.zip",
-            "s25ultra": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/s25ultra.zip",
-            "city100": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/city100.zip",
-            "p40plus": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/p40plus.zip",
-            "p55nfc": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/p55nfc.zip",
-            "p65": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/p65.zip",
-            "s23plus": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/s23plus.zip",
-            "vision3plus": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision3plus.zip",
-            "vision4plus": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision4plus.zip"
+            "s25": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s25.zip",
+            "s23": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s23.zip",
+            "s25ultra": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s25ultra.zip",
+            "city100": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/city100.zip",
+            "p40plus": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/p40plus.zip",
+            "p55nfc": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/p55nfc.zip",
+            "p65": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/p65.zip",
+            "s23plus": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/s23plus.zip",
+            "vision3plus": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision3plus.zip",
+            "vision4plus": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision4plus.zip"
         },
         "advan": {
-               "sketsa_3": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/sketsa_3.zip"
+               "sketsa_3": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/sketsa_3.zip"
         },
         "realme": {
-                "c31": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c31.zip",
-                "c33": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c33.zip",
-                "c35": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c35.zip",
-                "c51": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c51.zip",
-                "c53": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c53.zip",
-                "c61": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c61.zip",
-                "c71": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c71.zip",
-                "narzo50i_prime": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i_prime.zip",
-                "note50": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/note50.zip",
-                "note60": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60.zip",
-                "note60x": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60x.zip"
+                "c31": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c31.zip",
+                "c33": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c33.zip",
+                "c35": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c35.zip",
+                "c51": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c51.zip",
+                "c53": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c53.zip",
+                "c61": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c61.zip",
+                "c71": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c71.zip",
+                "narzo50i_prime": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i_prime.zip",
+                "note50": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note50.zip",
+                "note60": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60.zip",
+                "note60x": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/note60x.zip"
         },
         "tecno": {
-               "kl4": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/kl4.zip",
-               "spark_8c": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_8c.zip",
-               "spark_10c": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_10c.zip"
+               "kl4": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/kl4.zip",
+               "spark_8c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_8c.zip",
+               "spark_10c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_10c.zip"
         },
         "redmi": {
-              "a5": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/a5.zip"
+              "a5": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a5.zip"
         },
-        "universal_emmc": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/universal_emmc.zip",
-        "universal_ufs": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/universal_ufs.zip",
+        "universal_emmc": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/universal_emmc.zip",
+        "universal_ufs": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/universal_ufs.zip",
         "vivo": {
-             "y19s": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/y19s.zip"
+             "y19s": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/y19s.zip"
         }
     },
     "sc9863a": {
         "Itel": {
-            "a70": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/a70.zip",
-            "a50": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/a50.zip",
-            "a80": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/a80.zip",
-            "a90": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/a90.zip",
-            "vision3": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision3.zip"
+            "a70": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a70.zip",
+            "a50": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a50.zip",
+            "a80": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a80.zip",
+            "a90": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a90.zip",
+            "vision3": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/vision3.zip"
         }
         "infinix": {
-              "smart7": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart7.zip"
+              "smart7": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/smart7.zip"
         },
         "realme": {
-               "c11": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c11.zip",
-               "narzo50i": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i.zip"
+               "c11": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c11.zip",
+               "narzo50i": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/narzo50i.zip"
         }
     },
      "ums512": {
           "infinix": {
-                 "hot12play_nfc": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot120lay_nfc.zip"
+                 "hot12play_nfc": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/hot120lay_nfc.zip"
           },
           "realme": {
-                 "c21y": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c21y.zip",
-                 "c25y": "https://Massatriof16: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@github.com/Massatriof16/SFD_Files/releases/download/Sfd/c25y.zip"
+                 "c21y": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c21y.zip",
+                 "c25y": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/c25y.zip"
           }
      }
 }
