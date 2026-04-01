@@ -38,7 +38,9 @@
         "Tecno": {
                "kl4": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/kl4.zip",
                "spark_8c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_8c.zip",
-               "spark_10c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_10c.zip"
+               "spark_10c": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/spark_10c.zip",
+               "km4": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/km4.zip",
+               "kn3": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/kn3.zip"
         },
         "Redmi": {
               "a5": "https://github.com/Massatriof16/SFD_Files/releases/download/Sfd/a5.zip"
